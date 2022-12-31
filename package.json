@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/wangkai1995/CrossoriginWebpackPlugin#readme",
   "dependencies": {
-    "html-webpack-plugin": "^3.2.0",
-    "webpack": "^4.35.2",
+    "html-webpack-plugin": "^5.5.0",
+    "webpack": "^5.75.0",
     "webpack-sources": "^1.3.0"
   }
 }
